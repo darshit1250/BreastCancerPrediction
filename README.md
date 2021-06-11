@@ -115,6 +115,7 @@
        - W.H. Wolberg, W.N. Street, and O.L. Mangasarian. Machine learning techniques
          to diagnose breast cancer from fine-needle aspirates. Cancer Letters 77 (1994) 
          163-171.
+    .. The description is taken from the scikit learn dataset ..
          
 # Breast Cancer Wisconsin
 --------------------------
